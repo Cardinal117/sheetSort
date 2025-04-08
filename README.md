@@ -68,9 +68,3 @@ Please feel free to reach out:
 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-⚠️ The software comes as-is—no guarantees, no warranties.
-
-❌ You can’t hold the original author liable for issues or damages.
-
-Think of it as: “Here’s my code. Do cool stuff with it, just don’t sue me.”

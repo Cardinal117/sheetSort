@@ -63,7 +63,7 @@ Got a better idea? Found a bug? Want to suggest a feature or an alternative appr
 
 Please feel free to reach out:
 
-- 📧 Email: [your.email@example.com]
+- 📧 Email: jaydenlberg2005@gmail.com
 
 📄 License
 

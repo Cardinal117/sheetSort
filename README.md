@@ -69,17 +69,6 @@ Please feel free to reach out:
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
-🔐 License Explained (Human-Friendly)
-This project is licensed under the MIT License.
-
-That means:
-
-✅ You're free to use, modify, and share this code—even in commercial projects.
-
-✅ You can build on it, change it, or embed it into your own tools.
-
-📝 Just remember to keep the original license and give credit.
-
 ⚠️ The software comes as-is—no guarantees, no warranties.
 
 ❌ You can’t hold the original author liable for issues or damages.
